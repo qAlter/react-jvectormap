@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kadoshms/react-jvectormap.git"
+    "url": "git+https://github.com/qalter/react-jvectormap.git"
   },
-  "author": "Mor Kadosh <kadoshms@gmail.com>",
+  "author": "qalter <qalter005@mail.ru>",
   "bugs": {
-    "url": "https://github.com/kadoshms/react-jvectormap/issues"
+    "url": "https://github.com/qalter/react-jvectormap/issues"
   },
-  "homepage": "https://github.com/kadoshms/react-jvectormap",
+  "homepage": "https://github.com/qalter/react-jvectormap",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "7.1.2",
