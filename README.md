@@ -10,7 +10,7 @@ Please feel free to contribute, open issues or just enjoy this library!
 
 Install the library:
 
-    npm install --save react-jvectormap
+    npm install --save react-jvectormap-ru
 
 Include the jvectormap.css file in your project:
 
@@ -85,5 +85,6 @@ This plugin is brand new, and currently supports only two type of maps:
 * au_mill
 * kr_mill
 * co_mill
+* ru_mill
 
 **Please feel free to request new maps! just open an issue!**
